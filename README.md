@@ -119,7 +119,13 @@ Any text editor is sufficient, but VS Code is preferred.
    Debug service listening on ws://127.0.0.1:49834/BtFIx-Lk_fU=/ws
    ```
    ```
-
+   $ flutter run -d 6981250D-DD66-4CCE-96D5-EF002F2AB307
+   Launching lib/main.dart on iPhone 15 Pro Max in debug mode...
+   Running Xcode build...                                                  
+    └─Compiling, linking and signing...                      2,384ms
+   Xcode build done.                                            9.1s
+   [VERBOSE-2:FlutterDarwinContextMetalImpeller.mm(37)] Using the Impeller rendering backend.
+   ```
 
 #### Application Features
 
@@ -131,6 +137,7 @@ Any text editor is sufficient, but VS Code is preferred.
 #### Application Screenshots
 
 > Back4App Dashboard
+> Back4App Dashboard
 <img src="screenshots/dashboard.png" width="800">
 
 > Back4App API Key
@@ -141,8 +148,6 @@ Any text editor is sufficient, but VS Code is preferred.
 
 > Flutter Web Application
 <img src="screenshots/flutterWeb.png" width="800">
-
-
 
 > Adding Task - Web
 <p float="left">
@@ -183,4 +188,4 @@ Any text editor is sufficient, but VS Code is preferred.
 
 #### Assignment Submission Done By:
 
-> Yati Kumari(2022mt93567)
+> Yati Kumari (2022MT93567)
