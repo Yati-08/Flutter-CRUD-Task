@@ -137,7 +137,8 @@ Any text editor is sufficient, but VS Code is preferred.
 #### Application Screenshots
 
 > Back4App Dashboard
-<img src="screenshots/001_Parse_Setup.png" width="800">
+![image](https://github.com/Yati-08/Flutter-CRUD-Task/assets/73873092/997b192b-f2a2-4793-bd38-4c9afa520e3f)
+
 
 > Back4App API Key
 <img src="screenshots/002_Parse_API_Key.png" width="800">
