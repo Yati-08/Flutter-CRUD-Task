@@ -131,7 +131,7 @@ Any text editor is sufficient, but VS Code is preferred.
 #### Application Screenshots
 
 > Back4App Dashboard
-![image](https://github.com/Yati-08/Flutter-CRUD-Task/assets/73873092/997b192b-f2a2-4793-bd38-4c9afa520e3f)
+[image](https://github.com/Yati-08/Flutter-CRUD-Task/assets/73873092/997b192b-f2a2-4793-bd38-4c9afa520e3f)
 
 
 > Back4App API Key
