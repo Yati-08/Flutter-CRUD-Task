@@ -119,13 +119,7 @@ Any text editor is sufficient, but VS Code is preferred.
    Debug service listening on ws://127.0.0.1:49834/BtFIx-Lk_fU=/ws
    ```
    ```
-   $ flutter run -d 6981250D-DD66-4CCE-96D5-EF002F2AB307
-   Launching lib/main.dart on iPhone 15 Pro Max in debug mode...
-   Running Xcode build...                                                  
-    └─Compiling, linking and signing...                      2,384ms
-   Xcode build done.                                            9.1s
-   [VERBOSE-2:FlutterDarwinContextMetalImpeller.mm(37)] Using the Impeller rendering backend.
-   ```
+
 
 #### Application Features
 
