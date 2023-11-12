@@ -119,13 +119,7 @@ Any text editor is sufficient, but VS Code is preferred.
    Debug service listening on ws://127.0.0.1:49834/BtFIx-Lk_fU=/ws
    ```
    ```
-   $ flutter run -d 6981250D-DD66-4CCE-96D5-EF002F2AB307
-   Launching lib/main.dart on iPhone 15 Pro Max in debug mode...
-   Running Xcode build...                                                  
-    └─Compiling, linking and signing...                      2,384ms
-   Xcode build done.                                            9.1s
-   [VERBOSE-2:FlutterDarwinContextMetalImpeller.mm(37)] Using the Impeller rendering backend.
-   ```
+
 
 #### Application Features
 
@@ -141,54 +135,51 @@ Any text editor is sufficient, but VS Code is preferred.
 
 
 > Back4App API Key
-<img src="screenshots/002_Parse_API_Key.png" width="800">
+![image](https://github.com/Yati-08/Flutter-CRUD-Task/assets/73873092/22ab43fd-91fe-4554-bbb1-b0b85b4968a2)
+
 
 > Configuring API Key in Flutter Application
-<img src="screenshots/003_API_Key_Code_Config.png" width="800">
+![image](https://github.com/Yati-08/Flutter-CRUD-Task/assets/73873092/bdae1e1d-99f5-4029-9354-46c42841021b)
+
 
 > Flutter Web Application
-<img src="screenshots/004_Flutter_Web.png" width="800">
+![image](https://github.com/Yati-08/Flutter-CRUD-Task/assets/73873092/7d91ab2d-efb5-47e0-a5e4-901ec78f0fc9)
+
 
 > Flutter Mobile Application - iOS
 <p float="left">
 <img src="screenshots/005_iOS_Simulator.png" width="300">
-<img src="screenshots/006_iOS_Simulator.png" width="300">
-</p>
-
-> Adding Task - iOS
-<p float="left">
-<img src="screenshots/007_iOS_Simulator.png" width="300">
-<img src="screenshots/008_iOS_Simulator.png" width="300">
 </p>
 
 > Task Updated in Web Application
-<img src="screenshots/009_Flutter_Web.png" width="800">
+![image](https://github.com/Yati-08/Flutter-CRUD-Task/assets/73873092/e91d8dcb-dc3a-489e-a1c3-67c0a91186d1)
+
 
 > Adding Task - Web Application
-<img src="screenshots/010_Flutter_Web.png" width="800">
+![image](https://github.com/Yati-08/Flutter-CRUD-Task/assets/73873092/9cacf9e1-2f0d-49d4-bfe1-604b5b12af56)
+
 
 > Updating Status as Done from Web Application
-<img src="screenshots/011_Flutter_Web.png" width="800">
+![image](https://github.com/Yati-08/Flutter-CRUD-Task/assets/73873092/4a3e8f66-49ae-4331-8cad-30cc81c3be98)
+
 
 > Back4App Database Updated the Status
-<img src="screenshots/012_Parse_Insert.png" width="800">
+![image](https://github.com/Yati-08/Flutter-CRUD-Task/assets/73873092/682cdd89-aae0-4ee8-b017-a5bdc69d7ae5)
 
-> Refreshing Mobile Application to get Status
-<img src="screenshots/013_iOS_Simulator.png" width="300">
 
-> Updating Status as Done from Mobile Application
-<img src="screenshots/014_Parse_Update.png" width="800">
-
-> Adding a Task and Deleting it from Mobile - iOS
+> Adding a Task and Deleting it from web
 <p float="left">
-<img src="screenshots/015_iOS_Simulator.png" width="300">
-<img src="screenshots/016_iOS_Simulator.png" width="300">
+![image](https://github.com/Yati-08/Flutter-CRUD-Task/assets/73873092/12879d45-544e-48d8-a464-5d47dae08f2d)
+
+![image](https://github.com/Yati-08/Flutter-CRUD-Task/assets/73873092/00b79aa6-737b-4e3a-9435-7cb8297df3c7)
+
 </p>
 
 > Opening new screen with task details
 <p float="left">
-<img src="screenshots/017_iOS_Simulator.png" width="300">
-<img src="screenshots/018_iOS_Simulator.png" width="300">
+![image](https://github.com/Yati-08/Flutter-CRUD-Task/assets/73873092/585b851d-07b2-4885-b89e-e2884b9e4fcd)
+
+
 </p>
 
 #### References
@@ -196,12 +187,9 @@ Any text editor is sufficient, but VS Code is preferred.
 - https://docs.flutter.dev/get-started/install/macos
 - https://developer.apple.com/forums/thread/697220
 - https://developer.android.com/tools/avdmanager
-- https://mockuphone.com
-- https://docs.github.com/en/get-started/writing-on-github
 - https://docs.flutter.dev/reference/flutter-cli
 
 #### Assignment Submission Done By:
 
-> Gokul Nath KP
-> 
-> 2022MT93517
+> Yati Kumari(2022MT93567)
+
