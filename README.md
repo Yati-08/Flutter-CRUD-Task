@@ -167,7 +167,7 @@ Any text editor is sufficient, but VS Code is preferred.
 > Back4App Database Updated the Status
 <img src="screenshots/back4app_done.png" width="800">
 
-> Adding a Task and Deleting it from Mobile - iOS
+> Adding a Task and Deleting it from Web
 <p float="left">
 <img src="screenshots/add.png" width="300">
 <img src="screenshots/delete.png" width="300">
@@ -179,6 +179,7 @@ Any text editor is sufficient, but VS Code is preferred.
 <img src="screenshots/details_done.png" width="300">
 </p>
 
+I had implemented same things in ios and android.
 #### References
 
 - https://docs.flutter.dev/get-started/install/macos
